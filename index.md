@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://uin-suska.ac.id/)
-[Link](http://sif.uin-suska.ac.id/) and ![Image](src)
+[http://uin-suska.ac.id/](url)
+[http://sif.uin-suska.ac.id/](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
